@@ -1,3 +1,5 @@
+![Demonstração Motion — TN-ferramentas-audio-visuais](docs/diagrama-motion.svg)
+
 Feito por cópia de repo privado ferramentas-audio-visuais na versão 3e90a21 de TN em 11/2026.
 
 ---
@@ -23,4 +25,3 @@ Ferramentas, configurações de referência e métodos de produção audiovisual
 Os exemplos usam `C:/Tools/audio-visual` como raiz ilustrativa. Substituir pelos caminhos reais; não executar instaladores macOS no Windows. Os binários e modelos são obtidos nas fontes originais, fora deste repositório.
 
 O material histórico de `video-codigo/` foi escrito para Claude Code e permanece preservado. Sua referência também é versionada em `claude-config`; inspiração: yihui-dev/awesome-opus5-5-videos. As novas instruções de Codex estão separadas em `codex/`.
-
